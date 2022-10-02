@@ -15,7 +15,7 @@ public class SignUpTest {
     Homepage homepage;
     SignUpPage signUpPage;
 
-   
+
     @Test
     public void signUpWithoutTermsAndPrivacy() {
 
